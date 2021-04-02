@@ -6,7 +6,7 @@
 
 
 ## 지원금 목록 Crawling  
-### 사용한 라이브러려 : selenium  
+### 사용한 라이브러 : selenium  
 ### url : 온라인 청년센터 (https://www.youthcenter.go.kr/main.do)  
   
 
