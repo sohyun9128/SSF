@@ -6,9 +6,12 @@
 
 
 ## 지원금 목록 Crawling  
-### 사용한 라이브러 : selenium  
+### 사용한 라이브러리 : selenium, pandas, re, sqlite3  
 ### url : 온라인 청년센터 (https://www.youthcenter.go.kr/main.do)  
   
+
+## Chromedriver 다운 받기  
+### url : https://chromedriver.chromium.org/downloads
 
 ## SQLite 저장  
 ### columns
