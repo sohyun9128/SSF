@@ -1,19 +1,19 @@
 # SSF
-  
+---
 ## 지원금 추천 프로그램  
 다양한 지원금, 장학금 정보를 사용자에게 제공하는 프로그램  
 사용자가 원하는 지원 자격을 설정하여 그에 해당하는 지원금 리스트를 출력  
-  
-  
+
+---
 ## 지원금 목록 Crawling  
-### 사용한 라이브러리 : selenium, pandas, re, sqlite3  
-### url : 온라인 청년센터 (https://www.youthcenter.go.kr/main.do)  
-    
+사용한 라이브러리 : selenium, pandas, re, sqlite3  
+url : 온라인 청년센터 (https://www.youthcenter.go.kr/main.do)  
   
+---
 ## Chromedriver 다운 받기  
-### url : https://chromedriver.chromium.org/downloads
+url : https://chromedriver.chromium.org/downloads
   
-    
+---
 ## SQLite 저장  
 ### columns
     - index : 인덱스  
