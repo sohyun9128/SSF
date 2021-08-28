@@ -59,7 +59,7 @@ def youth():
         for index in range(1, len(num)+1):
             
             try:
-                type_xpath = '//*[@id="srchFrm"]/div[4]/div[2]/ul/li[' + str(index) + ']/div[2]'
+                type_xpath = '//*[@id="srchFrm"]/div[4]/div[2]/ul/li[' + str(index) + ']/div[2]/span'
                 type_str = driver.find_element_by_xpath(type_xpath)
                 type_str = type_str.get_attribute('innerHTML').replace('\t', "").replace('\n', "").replace('<span>', " ").replace('</span>', "")
             except:
